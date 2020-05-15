@@ -19,7 +19,7 @@
 		<javax.validation.api.version>1.1.0.Final</javax.validation.api.version>
 		<hppc.collections.version>0.5.4</hppc.collections.version>
 		<commons.collection.version>3.2.1</commons.collection.version>
-		<com.fasterxml.jackson.version>2.5.3</com.fasterxml.jackson.version>
+		<com.fasterxml.jackson.version>2.11.0</com.fasterxml.jackson.version>
 		<commons.io.version>2.4</commons.io.version>
 		<org.apache.ws.commons.axiom.version>1.2.18</org.apache.ws.commons.axiom.version>
 		<apache.http.components.version>4.3.2</apache.http.components.version>
