@@ -29,7 +29,7 @@
 		<org.aspectj.version>1.7.4</org.aspectj.version>
 		<logback.version>1.1.3</logback.version>
 		<jcloverslf4j.version>1.7.13</jcloverslf4j.version>
-		<commons.httpclient.version>4.3.4</commons.httpclient.version>
+		<commons.httpclient.version>4.5.13</commons.httpclient.version>
 		<commons.logging.version>1.2</commons.logging.version>
 		<joda.time.version>2.3</joda.time.version>
 		<ehcache.core.version>2.6.11</ehcache.core.version>
