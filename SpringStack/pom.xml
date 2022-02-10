@@ -38,7 +38,7 @@
 		<java.compiler.show.warnings>true</java.compiler.show.warnings>
 		<java.compiler.show.deprecation>true</java.compiler.show.deprecation>
 		<com.zaxxer.hikari.pool.version>2.5.1</com.zaxxer.hikari.pool.version>
-		<postgres.jdb.driver.version>9.3-1100-jdbc4</postgres.jdb.driver.version>
+		<postgres.jdb.driver.version>42.2.25</postgres.jdb.driver.version>
 	</properties>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.eng.tz.spring.stackoverflow.sample</groupId>
