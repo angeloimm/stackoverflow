@@ -13,7 +13,7 @@
 		<!-- Core software release -->
 		<spring.framework.version>4.3.6.RELEASE</spring.framework.version>
 		<spring.ws.framework.version>2.2.2.RELEASE</spring.ws.framework.version>
-		<springframework.security.version>4.2.1.RELEASE</springframework.security.version>
+		<springframework.security.version>4.2.13.RELEASE</springframework.security.version>
 		<junit.version>4.12</junit.version>
 		<jts.version>1.13</jts.version>
 		<javax.validation.api.version>1.1.0.Final</javax.validation.api.version>
